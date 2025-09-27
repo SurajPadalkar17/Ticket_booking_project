@@ -1,3 +1,7 @@
+<img width="863" height="775" alt="Screenshot 2025-09-27 184251" src="https://github.com/user-attachments/assets/9eced4fb-588d-456e-bb44-13362283512c" />
+
+<img width="1352" height="869" alt="image" src="https://github.com/user-attachments/assets/3ff4bcfb-4e9b-4c32-b738-109fe3e0ebbe" />
+
 Dentist Appointment Booking Platform
 A full-stack web application that allows patients to book dental appointments and provides a dedicated schedule view for doctors. This project is built with React on the frontend and FastAPI on the backend.
 
